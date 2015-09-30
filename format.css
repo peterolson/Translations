@@ -1,0 +1,17 @@
+.indent {
+	text-indent: 1em;
+}
+
+table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+td {
+	vertical-align: top;
+	padding: 10px;
+}
+
+h1, h2 {
+	text-align: center;
+}
