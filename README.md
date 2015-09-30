@@ -7,9 +7,9 @@ Una colección de documentos que he traducido
 ### Фёдор Сологуб (Fyodor Sologub)
  - [В плену (In Captivity)](http://peterolson.github.io/Translations/Russian/InCaptivity.html)
  
- ### Григорий Остер (Grigoriy Oster)
+### Григорий Остер (Grigoriy Oster)
  
- #### Дети и Эти (Kids and Such)
+#### Дети и Эти (Kids and Such)
  - [Мужской туалет и красная пудренница (The Men’s Room and the Red Powder Box)](http://peterolson.github.io/Translations/Russian/PowderBox.html)
  - [Потеря (Lost)](http://peterolson.github.io/Translations/Russian/Lost.html)
  - [Бесценное платье без ценника (The Priceless Dress Without a Price)](http://peterolson.github.io/Translations/Russian/PricelessDress.html)
