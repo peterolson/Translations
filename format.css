@@ -15,3 +15,8 @@ td {
 h1, h2 {
 	text-align: center;
 }
+
+.poetry p {
+	line-height: 0.5em;
+	margin-left: 20%;
+}
