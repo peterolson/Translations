@@ -17,6 +17,7 @@ h1, h2 {
 }
 
 .poetry p {
-	line-height: 0.5em;
+	margin-top: 0;
+	margin-bottom: 0.3em;
 	margin-left: 20%;
 }
